@@ -1,1 +1,1 @@
-# Buy-Sell-IIITH
+# Buy-Sell-IIITH MERN STACK
